@@ -1,4 +1,4 @@
-# Full Stack Dev - Express + Redis API Tutorial
+# Full Stack Dev : Express + Redis API Tutorial
 
 ## Create Simple API with Express Framework
 
